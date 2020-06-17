@@ -1,4 +1,4 @@
-module Phase1_tb();
+module testbench();
 //// Parameter declarations
 	parameter period = 10;
 	localparam cycle = period/2;
